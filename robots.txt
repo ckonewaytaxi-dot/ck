@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /success
+
+Sitemap: https://www.ckonewaytaxi.com/sitemap.xml
